@@ -1,0 +1,254 @@
+[
+   {"zoomLevel": 5,"scale": 0.5,
+  
+    "title":"AK",
+    "latitude":61.3850,
+    "longitude":-152.2683
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"AL",
+	"label" : "446",
+    "latitude":32.7990,
+    "longitude":-86.8073
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"AR",
+    "latitude":34.9513,
+    "longitude":-92.3809
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"AZ",
+    "latitude":33.7712,
+    "longitude":-111.3877
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"CA",
+    "latitude":36.1700,
+    "longitude":-119.7462
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"CO",
+    "latitude":39.0646,
+    "longitude":-105.3272
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"CT",
+    "latitude":41.5834,
+    "longitude":-72.7622
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"DE",
+    "latitude":39.3498,
+    "longitude":-75.5148
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"FL",
+    "latitude":27.8333,
+    "longitude":-81.7170
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"GA",
+    "latitude":32.9866,
+    "longitude":-83.6487
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"HI",
+    "latitude":21.1098,
+    "longitude":-157.5311
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"IA",
+    "latitude":42.0046,
+    "longitude":-93.2140
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"ID",
+    "latitude":44.2394,
+    "longitude":-114.5103
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"IL",
+    "latitude":40.3363,
+    "longitude":-89.0022
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"IN",
+    "latitude":39.8647,
+    "longitude":-86.2604
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"KS",
+    "latitude":38.5111,
+    "longitude":-96.8005
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"KY",
+    "latitude":37.6690,
+    "longitude":-84.6514
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"Lo",
+    "latitude":31.1801,
+    "longitude":-91.8749
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MA",
+    "latitude":42.2373,
+    "longitude":-71.5314
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MD",
+    "latitude":39.0724,
+    "longitude":-76.7902
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"ME",
+    "latitude":44.6074,
+    "longitude":-69.3977
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MI",
+    "latitude":43.3504,
+    "longitude":-84.5603
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MN",
+    "latitude":45.7326,
+    "longitude":-93.9196
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MO",
+    "latitude":38.4623,
+    "longitude":-92.3020
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MS",
+    "latitude":32.7673,
+    "longitude":-89.6812
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"MT",
+    "latitude":46.9048,
+    "longitude":-110.3261
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NC",
+    "latitude":35.6411,
+    "longitude":-79.8431
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"ND",
+    "latitude":47.5362,
+    "longitude":-99.7930
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NE",
+    "latitude":41.1289,
+    "longitude":-98.2883
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NH",
+    "latitude":43.4108,
+    "longitude":-71.5653
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NJ",
+    "latitude":40.3140,
+    "longitude":-74.5089
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NM",
+    "latitude":34.8375,
+    "longitude":-106.2371
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NV",
+    "latitude":38.4199,
+    "longitude":-117.1219
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"NY",
+    "latitude":42.1497,
+    "longitude":-74.9384
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"OH",
+    "latitude":40.3736,
+    "longitude":-82.7755
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"OK",
+    "latitude":35.5376,
+    "longitude":-96.9247
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"OR",
+    "latitude":44.5672,
+    "longitude":-122.1269
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"PA",
+    "latitude":40.5773,
+    "longitude":-77.2640
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"RI",
+    "latitude":41.6772,
+    "longitude":-71.5101
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"SC",
+    "latitude":33.8191,
+    "longitude":-80.9066
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"SD",
+    "latitude":44.2853,
+    "longitude":-99.4632
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"TN",
+    "latitude":35.7449,
+    "longitude":-86.7489
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"TX",
+    "latitude":31.1060,
+    "longitude":-97.6475
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"UT",
+    "latitude":40.1135,
+    "longitude":-111.8535
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"VA",
+    "latitude":37.7680,
+    "longitude":-78.2057
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"VT",
+    "latitude":44.0407,
+    "longitude":-72.7093
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"WA",
+    "latitude":47.3917,
+    "longitude":-121.5708
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"WI",
+    "latitude":44.2563,
+    "longitude":-89.6385
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"WV",
+    "latitude":38.4680,
+    "longitude":-80.9696
+  },
+   {"zoomLevel": 5,"scale": 0.5,
+    "title":"WY",
+    "latitude":42.7475,
+    "longitude":-107.2085
+  }
+]
