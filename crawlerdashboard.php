@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   
-  
+<a href='https://www.glassdoor.com/index.htm'>powered by <img src='https://www.glassdoor.com/static/img/api/glassdoor_logo_80.png' title='Job Search' /></a>  
   
       <link rel="stylesheet" href="fancystyle.css">
 <?php include 'companies.php';?>
